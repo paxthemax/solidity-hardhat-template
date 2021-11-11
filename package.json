@@ -2,8 +2,19 @@
   "name": "solidity-template",
   "version": "0.1.0",
   "description": "Template for writing smart contracts in solidity with VSCode",
-  "main": "index.js",
+  "private": true,
+  "engines": {
+    "node": ">= 14.0.0"
+  },
+  "repository": "github:paxthemax/solidity-hardhat-template",
   "author": "Pavle Batuta <pavle@batuta.xyz>",
   "license": "MIT",
-  "private": true
+  "keywords": [
+    "ethereum",
+    "smart-contracts",
+    "template",
+    "boilerplate",
+    "hardhat",
+    "solidity"
+  ]
 }
