@@ -1,0 +1,9 @@
+{
+  "name": "solidity-template",
+  "version": "0.1.0",
+  "description": "Template for writing smart contracts in solidity with VSCode",
+  "main": "index.js",
+  "author": "Pavle Batuta <pavle@batuta.xyz>",
+  "license": "MIT",
+  "private": true
+}
